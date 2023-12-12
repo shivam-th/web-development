@@ -1,0 +1,23 @@
+* {
+  /* margin:0;
+  font-family: Arial, Helvetica, sans-serif; */
+}
+header {
+  height: 60px;
+  background-color: #0f1111;
+  border: 1px dashed red;
+}
+
+.a-main {
+  height: 4818px;
+  background-color: #e3e6e6;
+  border: 1px dashed blue;
+}
+
+footer {
+  height: 227px;
+  background-color: #0f1111;
+  border: 1px dashed green
+}
+
+
